@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-24 15:00:12</sys_created_on>
-        <sys_id>3fcb4ef42f7b00104e90837cf699b692</sys_id>
+        <sys_id>0434b3112ffb80104e90837cf699b61e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
         <sys_package display_value="Innovate" source="x_477390_innovate">0a2ac2342f7b00104e90837cf699b640</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Innovate">0a2ac2342f7b00104e90837cf699b640</sys_scope>
         <sys_update_name>sys_dictionary_x_477390_innovate_innovate_description</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-24 15:00:12</sys_updated_on>
+        <sys_updated_on>2020-03-26 11:53:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
