@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="My Idea" section_id="a5b69ecd2ff740104e90837cf699b69f" sys_domain="global" table="x_477390_innovate_innovate" version="3" view="my_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:26:19</sys_created_on>
+            <sys_id>a1b69ecd2ff740104e90837cf699b6c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">a5b69ecd2ff740104e90837cf699b69f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:26:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Idea</caption>
+            <header>false</header>
+            <name>x_477390_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:26:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5b69ecd2ff740104e90837cf699b69f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_477390_innovate">0a2ac2342f7b00104e90837cf699b640</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">0a2ac2342f7b00104e90837cf699b640</sys_scope>
+            <sys_update_name>sys_ui_section_a5b69ecd2ff740104e90837cf699b69f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:26:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="my view" name="my_view">d32696cd2ff740104e90837cf699b696</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

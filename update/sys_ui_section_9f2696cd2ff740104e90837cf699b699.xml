@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9f2696cd2ff740104e90837cf699b699" sys_domain="global" table="x_477390_innovate_innovate" version="3" view="my_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>2d5b92052f3b40104e90837cf699b6b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>a15b92052f3b40104e90837cf699b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>295b92052f3b40104e90837cf699b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>ad5b92052f3b40104e90837cf699b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>255b92052f3b40104e90837cf699b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>a95b92052f3b40104e90837cf699b6b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_approved</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:46:32</sys_created_on>
+            <sys_id>215b92052f3b40104e90837cf699b6b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_477390_innovate_innovate" sys_domain="global" view="d32696cd2ff740104e90837cf699b696">9f2696cd2ff740104e90837cf699b699</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:46:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_477390_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-25 10:23:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f2696cd2ff740104e90837cf699b699</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_477390_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_477390_innovate">0a2ac2342f7b00104e90837cf699b640</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">0a2ac2342f7b00104e90837cf699b640</sys_scope>
+            <sys_update_name>sys_ui_section_9f2696cd2ff740104e90837cf699b699</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-25 10:23:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="my view" name="my_view">d32696cd2ff740104e90837cf699b696</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
